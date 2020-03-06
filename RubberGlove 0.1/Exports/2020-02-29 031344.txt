@@ -1,0 +1,12 @@
+####UNEXPECTED#### file = C:\\Users\\Se Sun Lam\\Downloads\Week 6 - FTK Imager - RM 2020(1).pdf entropy value is: 7.961812702536153
+####UNEXPECTED#### file = C:\\Users\\Se Sun Lam\\Downloads\Week 6 - FTK Imager - RM 2020.pdf entropy value is: 7.961812702536153
+####UNEXPECTED#### file = C:\\Users\\Se Sun Lam\\Downloads\CS-GrantThornton.pdf entropy value is: 7.960446645167948
+####UNEXPECTED#### file = C:\\Users\\Se Sun Lam\\Downloads\Week 6 - FTK Imager Lab - RM 2020.pdf entropy value is: 7.950250437577341
+####UNEXPECTED#### file = C:\\Users\\Se Sun Lam\\Downloads\Week 6 - FTK Imager Quiz - RM 2020.pdf entropy value is: 7.925423951438872
+####UNEXPECTED#### file = C:\\Users\\Se Sun Lam\\Downloads\Week 6 - FTK Imager Quiz - RM 2020.odt entropy value is: 7.76859470449872
+####UNEXPECTED#### file = C:\\Users\\Se Sun Lam\\Downloads\Contacts.txt entropy value is: 4.267843511445197
+####UNEXPECTED#### file = C:\\Users\\Se Sun Lam\\Downloads\desktop.ini entropy value is: 3.4886937173384545
+####UNEXPECTED#### file = C:\\Users\\Se Sun Lam\\Downloads\Week 6 - FTK Imager Quiz - RM 2020.doc entropy value is: 3.1734961663659833
+####EXPECTED#### file = C:\\Users\\Se Sun Lam\\Downloads\AccessData_FTK_Imager-_4.3.0.exe exptected to have high entropy value
+####EXPECTED#### file = C:\\Users\\Se Sun Lam\\Downloads\manjaro-xfce-18.1.5-191229-linux54.iso exptected to have high entropy value
+
